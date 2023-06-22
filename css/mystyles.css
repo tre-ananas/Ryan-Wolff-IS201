@@ -1,0 +1,54 @@
+.whyarabicbg {
+    background-color: papayawhip;
+}
+
+.li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: lighter;
+    color: black;
+}
+
+.listheader {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+}
+
+.sectionheader {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
+
+.pagetitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 46px;
+    font-style: bolder;
+    color: black;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkslategrey;
+    font-size: 14px;
+    text-decoration: none;
+}
+.headera {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:darkslategrey;
+    font-size: 20px;
+}
+a:visited {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(150, 149, 149);
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+}
